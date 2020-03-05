@@ -1,0 +1,11 @@
+django
+djangoframework
+
+
+
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/nokia_project.iml
+.idea/modules.xml
+.idea/misc.xml
+.idea/inspectionProfiles/profiles_settings.xml
